@@ -21,7 +21,7 @@ go run .
 
 ```
 
-3. Open `https://golang-projec.onrender.com/test`.
+3. Open `https://golang-projec.onrender.com/test`
 
 ## Notes
 
