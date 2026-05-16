@@ -21,7 +21,7 @@ go run .
 
 ```
 
-3. Open `http://localhost:8081/test`.
+3. Open `https://golang-projec.onrender.com/test`.
 
 ## Notes
 
